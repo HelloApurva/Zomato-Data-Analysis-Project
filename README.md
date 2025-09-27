@@ -24,11 +24,11 @@ The goal is to uncover **customer preferences, dining patterns, and service feat
 ---
 
 ## 📂 Repository Structure
-├── data/ # (Optional sample data / small datasets)
-├── notebooks/ # Jupyter/Colab notebooks with full analysis
-├── visuals/ # Graphs & plots from EDA
-├── Zomato Data Analysis Report.pdf # Full project report
-└── README.md # Project overview
+├── data/
+├── notebooks
+├── visuals
+├── Zomato Data Analysis Report.pdf 
+└── README.md 
 
 
 ---
